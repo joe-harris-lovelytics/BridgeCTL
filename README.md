@@ -20,6 +20,7 @@ BridgeCTL is easy to install. Just download and run the bridgectl_setup.py scrip
 
 ```
 curl -OL https://github.com/joe-harris-lovelytics/BridgeCTL/blob/main/bridgectl_setup.py
+sudo python3 bridgectl_setup.py
 ```
 
 Requirements
